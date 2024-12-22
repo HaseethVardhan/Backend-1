@@ -1,0 +1,19 @@
+{
+  "name": "backend-1",
+  "version": "1.0.0",
+  "description": "a backend for practice",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Haseeth Vardhan",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
